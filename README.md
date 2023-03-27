@@ -1,6 +1,8 @@
 ## Desafio Modulo 05 Proyecto 04
 
 ![Screenshot](https://github.com/mdcabezas/desafio_mod05_04/blob/master/public/screenshot.jpg)
+![Screenshot](https://github.com/mdcabezas/desafio_mod05_04/blob/master/public/screenshot1.jpg)
+![Screenshot](https://github.com/mdcabezas/desafio_mod05_04/blob/master/public/screenshot2.jpg)
 
 ***
 

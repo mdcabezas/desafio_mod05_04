@@ -1,8 +1,11 @@
+import DataProvider from "./context/DataProvider";
+import AppRouter from "./router/AppRouter";
+
 function App() {
   return (
-    <div className="App">
-      DESAFIO_4
-    </div>
+    <DataProvider>
+      <AppRouter />
+    </DataProvider>
   );
 }
 
